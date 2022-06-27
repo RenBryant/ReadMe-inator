@@ -23,7 +23,7 @@
   To install the necessary dependencies, run the following command:
   
   ```
-  bob
+  npm i
   ```
   
   ## Usage
@@ -34,21 +34,21 @@
 This project is licensed under the MIT license.
   
   ## Contribute
-  undefined
+  bob
   
   ## Tests
-  bob
-
-  ## Questions
   ob
 
+  ## Questions
+  bob
+
   ### GitHub Username
-  [Github User](https://github.com/bob)  
+  [Github User](https://github.com/RenBryant)  
 
   ### Repo Name
-  [Github Repository](https://github.com/bob/bo)
+  [Github Repository](https://github.com/RenBryant/ReadMe-Inator)
 
   ## Email
-  bob
+  bryantrlauren2300@gmail.com
   
   

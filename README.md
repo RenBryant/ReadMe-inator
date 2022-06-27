@@ -12,7 +12,7 @@
   * [Usage](#usage)
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   * [License](#license) 
-  * [Contributing](#contributing)
+  * [Contribute](#contribute)
   * [Tests](#tests)
   * [Questions](#questions)
   * [Repo Name](#repo)

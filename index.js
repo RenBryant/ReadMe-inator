@@ -35,7 +35,7 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'contributing',
+      name: 'contribute',
       message: 'Who were the contributors for this application?'
     },
     {
