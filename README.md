@@ -19,7 +19,7 @@
   * [GitHub Username](#username)
   * [Email](#email)
 
-  ## Video of Application
+  ## Image and Video of Application
   ![This video shows me testing the application.](./videoAndImage/ReadMe%20Generator%20Test.webm)
     ![This video shows me testing the application.](./videoAndImage/ReadMe.png)
   
