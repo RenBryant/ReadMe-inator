@@ -22,6 +22,9 @@
   ## Image and Video of Application
   ![This video shows me testing the application.](./videoAndImage/ReadMe%20Generator%20Test.webm)
     ![This video shows me testing the application.](./videoAndImage/ReadMe.png)
+
+  ## Deployed Link
+  [title](https://renbryant.github.io/ReadMe-inator/)
   
   ## Installation
   To install the necessary dependencies, run the following command:
@@ -48,10 +51,10 @@ This project is under no license.
   What application will you use this generator for?
 
   ### GitHub Username
-  [Github Profile](https://github.com/RenBryant)  
+  [Github User](https://github.com/RenBryant)  
 
   ### Repo Name
-  [Github Profile](https://github.com/RenBryant/ReadMe-inator)
+  [Github Repo](https://github.com/RenBryant/ReadMe-inator)
 
   ## Email
   bryantrlauren2300@gmail.com
