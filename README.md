@@ -1,10 +1,10 @@
 
 
-  # Bob
+  # bob
 
   ## Description
   
-  Bob the builder
+  bob
   
   ## Table of Contents
 
@@ -15,40 +15,40 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Repo Name](#repoName)
-  * [GitHub](#github)
+  * [Repo Name](#repo)
+  * [GitHub Username](#username)
   * [Email](#email)
   
   ## Installation
   To install the necessary dependencies, run the following command:
   
   ```
-  npm i
+  bob
   ```
   
   ## Usage
-  it's bob
+  bob
   
   ## License
 
 This project is licensed under the MIT license.
   
   ## Contribute
-  Me
+  undefined
   
-  ##Tests
-  undefined
+  ## Tests
+  bob
 
-  ##Questions
-  None right now
+  ## Questions
+  bob
 
-  ##Repo Name
-  undefined
+  ### GitHub Username
+  [Github Profile](https://github.com/RenBryant)  
 
-  ##GitHub
-  undefined
+  ### Repo Name
+  [Github Profile](https://github.com/RenBryant/ReadMe-inator)
 
-  ##Email
+  ## Email
   bryantrlauren2300@gmail.com
   
   

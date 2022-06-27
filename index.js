@@ -35,12 +35,12 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'contribute',
+      name: 'contributing',
       message: 'Who were the contributors for this application?'
     },
     {
       type: 'input',
-      name: 'testing-requirements',
+      name: 'tests',
       message: 'What are the testing instructions for this application?'
     },
     {
@@ -50,12 +50,12 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'Repo Name',
+      name: 'repo',
       message: 'Enter any the GitHub Repository name.'
     },
     {
       type: 'input',
-      name: 'GitHub',
+      name: 'username',
       message: 'Enter the GitHub Username.'
     },
     {

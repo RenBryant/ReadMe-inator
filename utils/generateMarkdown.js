@@ -48,8 +48,8 @@ function generateMarkdown(response){
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Repo Name](#repoName)
-  * [GitHub](#github)
+  * [Repo Name](#repo)
+  * [GitHub Username](#username)
   * [Email](#email)
   
   ## Installation
@@ -73,11 +73,11 @@ function generateMarkdown(response){
   ## Questions
   ${response.questions}
 
-  ## Repo Name
-  ${response.repoName}
+  ### GitHub Username
+  [Github Profile](https://github.com/${response.username})  
 
-  ## GitHub
-  ${response.github}
+  ### Repo Name
+  [Github Profile](https://github.com/${response.username}/${response.repo})
 
   ## Email
   ${response.email}
