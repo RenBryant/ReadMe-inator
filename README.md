@@ -18,6 +18,10 @@
   * [Repo Name](#repo)
   * [GitHub Username](#username)
   * [Email](#email)
+
+  ## Video of Application
+  ![This video shows me testing the application.](./video/ReadMe%20Generator%20Test.webm)
+  
   
   ## Installation
   To install the necessary dependencies, run the following command:

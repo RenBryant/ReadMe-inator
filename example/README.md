@@ -1,16 +1,16 @@
 
 
-  # bob
+  # this is to show with a license
 
   ## Description
   
-  bob
+  license test
   
   ## Table of Contents
 
   * [Installation](#installation)
   * [Usage](#usage)
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)
   * [License](#license) 
   * [Contributing](#contributing)
   * [Tests](#tests)
@@ -27,20 +27,20 @@
   ```
   
   ## Usage
-  bob
+  just a test
   
   ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the APACHE 2.0 license.
   
   ## Contribute
-  bob
+  me
   
   ## Tests
-  ob
+  node
 
   ## Questions
-  bob
+  none right now
 
   ### GitHub Username
   [Github User](https://github.com/RenBryant)  
