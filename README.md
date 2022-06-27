@@ -1,10 +1,10 @@
 
 
-  # bob
+  # ReadMe-Inator
 
   ## Description
   
-  bob
+  This application allows the user to enter inputs based off of prompts to compile a README.md file. The technologies that are used in this application are Node.js and Inquirer.
   
   ## Table of Contents
 
@@ -23,24 +23,25 @@
   To install the necessary dependencies, run the following command:
   
   ```
-  bob
+  npm i
   ```
-  
+  in the package.json file
+
   ## Usage
-  bob
+  This application will help users make a professional README without having to style and type it out themselves.
   
   ## License
 
-This project is licensed under the MIT license.
+This project is under no license.
   
   ## Contribute
-  undefined
+  The Contribuutors for this project is RenBryant.
   
   ## Tests
-  bob
+  Test this application using node index.js in the terminal.
 
   ## Questions
-  bob
+  What application will you use this generator for?
 
   ### GitHub Username
   [Github Profile](https://github.com/RenBryant)  
@@ -50,5 +51,3 @@ This project is licensed under the MIT license.
 
   ## Email
   bryantrlauren2300@gmail.com
-  
-  

@@ -74,10 +74,10 @@ function generateMarkdown(response){
   ${response.questions}
 
   ### GitHub Username
-  [Github Profile](https://github.com/${response.username})  
+  [Github User](https://github.com/${response.username})  
 
   ### Repo Name
-  [Github Profile](https://github.com/${response.username}/${response.repo})
+  [Github Repository](https://github.com/${response.username}/${response.repo})
 
   ## Email
   ${response.email}
