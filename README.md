@@ -24,7 +24,7 @@
     ![This video shows me testing the application.](./videoAndImage/ReadMe.png)
 
   ## Deployed Link
-  [title](https://renbryant.github.io/ReadMe-inator/)
+  [ReadMe-Inator](https://renbryant.github.io/ReadMe-inator/)
   
   ## Installation
   To install the necessary dependencies, run the following command:
